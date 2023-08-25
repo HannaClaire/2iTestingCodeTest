@@ -12,7 +12,7 @@ function findSumOfPairs(nums, x){
             }
 
     return pairsTotal;
-    
+
         }
     
 
@@ -24,5 +24,5 @@ console.log("Num of pairs:", findSumOfPairs(nums, x));
 //this function takes in the two parameters myArray and x, and uses a nested loop, with the outer loop using 'i' to iterate over each number and increment by 1 so long as its less than the length of nums, which as its set to 0 will always increment.
 //the inner loop assigns 'j' to 'i's value but with an added 1, and so long as its less than nums length will also increment. It then sets a condition that if either i or J added together equal to x, then the pairsTotal will increment, showing how many pairs there are, and then returning them
 
-// Admittedly I found this really quite hard so had to get help online with this code!
+//  I found this really quite hard so had to get some help online with this code!
 
