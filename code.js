@@ -1,3 +1,6 @@
+//write a function that identifies how many pairs of numbers in an array add up to x's value
+
+
 const nums = [1,2,3,4,5,6,7];
 const x = 7;
 
